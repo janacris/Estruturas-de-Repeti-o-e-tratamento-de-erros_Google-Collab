@@ -1,2 +1,2 @@
-# Estruturas-de-Repetição-e-tratamento-de-erros_Google-Collab
+# Estruturas_de_Repetição_e_tratamento_de_erros_Google_Colab
 Atividade realizada durante o curso de Introdução a Programação da Talento Cloud_Próz Educação_Aws
